@@ -5,7 +5,7 @@ date:   2015-06-17 09:11:37
 categories: code
 ---
 
-Dinner Club markdown I wrote for class.
+Dinner Club markdown I wrote for class
 
 # Dinner Club
 
