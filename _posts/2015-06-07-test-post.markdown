@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Test!"
+date:   2015-06-17 09:11:37
+categories: Test post
+
+---
+This is a test of a blog post. oppsie... I went ahead. hehehehehe
+Hmmm I wonder if I can post images on this blog too...*goes looks*
+
+
