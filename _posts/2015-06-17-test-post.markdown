@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Start of the new Blog"
+date:   2015-06-17 09:11:37
+categories: Test post
+
+---
+This is a start of a new Blog lets see how long I can keep this Blog going. What I hope to do is to talk about the ups and downs from school, Codes I created and learn, hopefully some artwork or projects I worked on in the past and maybe some future projects
+
+
