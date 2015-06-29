@@ -5,4 +5,6 @@ date:   2015-06-25 07:50:37
 categories: video
 ---
 
-<iframe width="420" height="315" src="https://vimeo.com/132059533" frameborder="0" allowfullscreen></iframe>
+Link to the video
+
+http://zerasolar.github.io/video/2015/06/25/join-sql-video.html
